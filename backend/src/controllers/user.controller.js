@@ -28,9 +28,9 @@ const loginController = async (req, res) => {
     );
 
     res.cookie("token", token, {
-  httpOnly: false,
-  sameSite: "lax",   // works on localhost without HTTPS
-  secure: false,
+  httpOnly: true,
+  secure: true,      
+  sameSite: "none" 
 });
 
     return res.status(200).json({
@@ -76,9 +76,9 @@ const registerController = async (req, res) => {
     );
 
     res.cookie("token", token, {
-  httpOnly: false,
-  sameSite: "lax",   // works on localhost without HTTPS
-  secure: false,
+  httpOnly: true,
+  secure: true,       
+  sameSite: "none" 
 });
 
     return res.status(201).json({
