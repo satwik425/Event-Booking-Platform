@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Tech Innovators Summit 2026",
+    "description": "A large scale technology conference featuring AI, Web Development, Cybersecurity, and Startup networking sessions.",
+    "date": "2026-06-15T10:00:00.000Z",
+    "totalSeats": 500,
+    "bookedSeats": 320,
+    "location": "Bangalore International Convention Centre",
+    "price": 2499
+  },
+  {
+    "title": "Music Fest Night",
+    "description": "An electrifying live music event with top DJs, bands, and food stalls.",
+    "date": "2026-07-21T18:00:00.000Z",
+    "totalSeats": 1200,
+    "bookedSeats": 950,
+    "location": "Mumbai Open Arena",
+    "price": 1499
+  },
+  {
+    "title": "Startup Pitch Competition",
+    "description": "Young entrepreneurs present their startup ideas before investors and industry experts.",
+    "date": "2026-08-10T09:00:00.000Z",
+    "totalSeats": 300,
+    "bookedSeats": 180,
+    "location": "Delhi Startup Hub",
+    "price": 999
+  },
+  {
+    "title": "React Masterclass Workshop",
+    "description": "Hands-on React.js workshop covering hooks, routing, state management, and project architecture.",
+    "date": "2026-06-28T11:00:00.000Z",
+    "totalSeats": 100,
+    "bookedSeats": 72,
+    "location": "Hyderabad Tech Park",
+    "price": 1999
+  },
+  {
+    "title": "Gaming Championship 2026",
+    "description": "National level esports tournament featuring Valorant, BGMI, and FIFA competitions.",
+    "date": "2026-09-02T14:00:00.000Z",
+    "totalSeats": 800,
+    "bookedSeats": 540,
+    "location": "Kolkata Indoor Stadium",
+    "price": 799
+  },
+  {
+    "title": "AI & Future Tech Expo",
+    "description": "Explore the future of artificial intelligence, robotics, and automation with industry leaders and innovators.",
+    "date": "2026-10-18T12:00:00.000Z",
+    "totalSeats": 650,
+    "bookedSeats": 410,
+    "location": "Chennai Trade Centre",
+    "price": 1799
+  }
+]
